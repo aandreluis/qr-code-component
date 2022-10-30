@@ -29,13 +29,13 @@ Além de cumprir o desafio, implementei a opção de mudar o esquema de cores do
 ## 📸 Screenshots
 
 <p align="center">
-  <img alt="rocketpay" src=".github/light-theme.png" width="90%">
-  <img alt="rocketpay" src=".github/dark-theme.png" width="90%">
+  <img alt="rocketpay" src=".github/light-theme.png" width="80%">
+  <img alt="rocketpay" src=".github/dark-theme.png" width="80%">
 </p>
 
 ## 🌎 Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution: [https://www.frontendmentor.io/solutions/qr-code-component-html-css-js-dark-and-light-theme-Nn0ju7_skn](https://www.frontendmentor.io/solutions/qr-code-component-html-css-js-dark-and-light-theme-Nn0ju7_skn)
+- Live Site: [https://qr-code-component-aandreluis.netlify.app/](https://qr-code-component-aandreluis.netlify.app/)
 
 ---
